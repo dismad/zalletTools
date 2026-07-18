@@ -2,6 +2,7 @@
 Dancing with zallet
 
 `chmod +x` the scripts
+
 Install `zallet`: [link](https://zcash.github.io/zallet/guide/installation/index.html)
 
 
